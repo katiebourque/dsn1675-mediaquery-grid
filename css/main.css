@@ -95,6 +95,10 @@ h1 {
   .nav li {
     display: inline-block;
   }
+
+  .footer-text {
+    text-align: center;
+  }
 }
 
 @media only screen and (min-width: 38em) {
@@ -110,6 +114,12 @@ h1 {
   h1 {
     text-align: center;
   }
+
+  .footer-text {
+    text-align: left;
+  }
+
+
 
 }
 
