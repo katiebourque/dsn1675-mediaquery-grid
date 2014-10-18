@@ -83,7 +83,9 @@ h1 {
 .mediumgrey {
   background-color: #e2e2e2;
 
-
+.discovery {
+  overflow: hidden;
+}
 }
 
 @media only screen and (min-width: 25em) {
